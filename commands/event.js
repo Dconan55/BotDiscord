@@ -11,3 +11,6 @@ module.exports.run = async (bot, message, args, Savebdd) => {
 module.exports.config = {
     name: "event"
 }
+
+
+bite
